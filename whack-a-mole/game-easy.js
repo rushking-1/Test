@@ -15,7 +15,7 @@ window.onload = function () {
     startBtn.addEventListener('click', function () {
         showBtnAnimation();
         resetScoreAndTime();
-        setTineout(startGame,1500)
+        setTimeout(startGame,1500)
    
     }, false);
 
