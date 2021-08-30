@@ -1,0 +1,227 @@
+body {
+    background-color: black;
+    width: 95%;
+    margin: auto;
+
+}
+
+.header {
+    background: url("images/starfield-banner.jpg");
+    position: fixed;
+    width: 95%;
+}
+
+.header .logo-link {
+    padding: 10px;
+}
+
+.header .logo {
+    width:110px;
+    margin:11px;
+}
+
+.logo img{position: absolute; left: 6.0446%; top: 5.7143%;}
+
+.Nav1{position: absolute; left: 20.0446%; top: 7.7143%;}
+.Nav1 a{
+    font-size: 18px;
+    color:white;
+}
+.nn{
+    background: #5f5c5c;
+    width:825px;
+    height:30px;
+    position: absolute; left: 15.446%; top: 15.7143%;
+}
+.Nav2 a{
+    font-size: 13px;
+    color:white;
+
+}
+.ss input {
+    width:100px;height: 30px;
+    background: #333333;
+    border: 0px;
+    position: absolute; left: 82.446%; top: 8.1143%;}
+
+.if1{
+    position: absolute; left: 87.846%; top: 8.3143%;
+    background: #333333;
+    border:0px;
+    width: 28px;
+    height:28px;
+}
+.if2{
+    position: absolute; left: 91.246%; top: 8.1143%;
+    border: 0px;
+    width: 28px;
+    height:28px;
+    background: black;
+}
+
+
+.a{width:500px;height:500px;float:left;}
+.a img{position: absolute; left: 6.0446%; top: 22.7143%; width:528px;height: 500px;}
+.wenzi1{float:right;background: #c9c3c3;
+     }
+.wenzi1 p{text-indent:2em;color:black;background: #dddddd;font-size:12px;font-weight: bold;
+    height:30px;width:528px;position: absolute; left: 6.0446%; top: 100.7143%; }
+
+
+.a a{
+    float:right;color:white; height: 20px;width:50px;
+    position: absolute; left:6.0446%; top:98.7143%;background: #6297d0
+}
+
+
+
+
+.b{width:250px;height:250px;float:left;}
+.b img{position: absolute; left: 50.0446%; top: 22.7143%; width:250px;height: 230px;}
+.wenzi2{float:right;background: #c9c3c3;
+   }
+.wenzi2 p{text-indent:2em;color:black;background: #dddddd;font-size:12px;font-weight: bold;
+    height:30px;width:250px;position: absolute; left: 50.0446%; top: 58.0143%; }
+.b a{
+    float:right;color:white; height: 20px;width:60px;
+    position: absolute; left:50.0446%; top:56.7143%;background: #6297d0
+}
+
+
+.c{width:250px;height:250px;float:left}
+.c img{position: absolute; left: 75.0446%; top: 22.7143%; width:250px;height: 230px;}
+.wenzi3{width:300px;float:right;color:white}
+.wenzi3 p{text-indent:2em;color:white}
+
+.d{width:500px;height:500px;background-position: 50px,100px;}
+.d img{position: absolute; left: 50.0446%; top: 66.3143%; width:555px;height: 225px;}
+.wenzi4{float:right;background: #c9c3c3;
+   }
+.wenzi4 p{text-indent:2em;color:black;background: #dddddd;font-size:12px;font-weight: bold;
+    height:30px;width:555px;position: absolute; left: 50.0446%; top: 100.8143%;}
+
+
+
+
+
+
+.e{width:500px;height:500px;background-position: 50px,100px;}
+.e img{position: absolute; left:6.0446%; top: 108.7143%; width:250px;height: 250px;}
+.wenzi5{float:right;background: #c9c3c3;
+}
+.wenzi5 p{text-indent:2em;color:black;background: #dddddd;font-size:12px;font-weight: bold;
+    height:30px;width:250px;position: absolute; left: 6.0446%; top: 145.7143%; }
+.e a{
+    float:right;color:white; height: 20px;width:147px;
+    position: absolute; left:6.0446%; top:144.9143%;background: #6297d0
+}
+
+
+
+.f{width:500px;height:500px;background-position: 50px,100px;}
+.f img{position: absolute; left: 35.0446%; top: 108.7143%; width:500px;height: 250px;}
+
+.wenzi6{float:right;background: #c9c3c3;
+}
+.wenzi6 p{text-indent:2em;color:black;background: #dddddd;font-size:12px;font-weight: bold;
+    height:30px;width:550px;position: absolute; left: 28.0446%; top: 145.7143%; }
+.f a{
+    float:right;color:white; height: 20px;width:87px;
+    position: absolute; left:28.0446%; top:144.9143%;background: #6297d0
+}
+
+.g{width:500px;height:500px;background-position: 50px,100px;}
+.g video{position: absolute; left: 75.0446%; top: 108.7143%; width:250px;height: 270px;}
+.wenzi7{width:300px;float:right;color:white}
+.wenzi7 p{text-indent:2em;color:white}
+
+
+
+
+.h{width:500px;height:500px;background-position: 50px,100px;}
+.h img{position: absolute; left: 6.0446%; top: 157.7143%; width:260px;height: 200px;}
+
+.wenzi8{float:right;background: #c9c3c3;
+}
+.wenzi8 p{text-indent:2em;color:black;background: #dddddd;font-size:12px;font-weight: bold;
+    height:30px;width:250px;position: absolute; left: 6.0446%; top: 187.2143%; }
+.h a{
+    float:right;color:white; height: 20px;width:100px;
+    position: absolute; left:6.0446%; top:185.9143%;background: #6297d0
+}
+
+
+
+
+
+.i{width:500px;height:500px;background-position: 50px,100px;}
+.i img{position: absolute; left: 30.0446%; top: 157.7143%; width:260px;height: 200px;}
+
+.wenzi9{float:right;background: #c9c3c3;
+}
+.wenzi9 p{text-indent:2em;color:black;background: #dddddd;font-size:12px;font-weight: bold;
+    height:30px;width:268px;position: absolute; left: 28.0446%; top: 187.2143%; }
+.i a{
+    float:right;color:white; height: 20px;width:50px;
+    position: absolute; left:28.0446%; top:185.9143%;background: #6297d0
+}
+
+
+
+.j{width:500px;height:500px;background-position: 50px,100px;}
+.j img{position: absolute; left: 52.0446%; top: 157.7143%; width:260px;height: 204px;}
+.wenzi10{float:right;background: #c9c3c3;
+}
+.wenzi10 p{text-indent:2em;color:black;background: #dddddd;font-size:12px;font-weight: bold;
+    height:30px;width:261px;position: absolute; left: 51.9446%; top: 186.8143%; }
+.j a{
+    float:right;color:white; height: 20px;width:55px;
+    position: absolute; left:51.9446%; top:185.9143%;background: #6297d0
+}
+
+
+
+.k{width:500px;height:500px;background-position: 50px,100px;}
+.k img{position: absolute; left: 75.0446%; top: 157.7143%; width:260px;height: 204px;}
+.wenzi11{float:right;background: #c9c3c3;
+}
+.wenzi11 p{text-indent:2em;color:black;background: #dddddd;font-size:12px;font-weight: bold;
+    height:30px;width:260px;position: absolute; left: 75.1446%; top: 186.8143%; }
+.k a{
+    float:right;color:white; height: 20px;width:180px;
+    position: absolute; left:75.1446%; top:185.9143%;background: #6297d0
+}
+
+
+
+.bottom {width:500px;height:500px;background-position: 50px,100px;}
+.bottom img{ position: absolute; left: 5.0446%; top: 210.7143%; }
+.more{float:right;background: #00539F;
+   }
+.more p{color:white;background: #3333ee;font-size:20px;font-weight: bold;
+    position: absolute; left: 5.0446%; top: 200.7143%;width:1140px;}
+
+
+
+.wenzi12{width:300px;float:right;color:white;
+    position: absolute; left: 13.0446%; top: 210.7143%;align-content: center;size: 11px;}
+.logo1 p{
+    font-size: 10px;
+}
+
+
+
+.ui{
+    list-style:none;
+    position:absolute;
+    left:420px;
+    top:1404px;
+}
+
+
+.ui li {
+    float: left;
+    color: #4141f3;
+    padding: 5px;
+    font-size: 8px;
+}
