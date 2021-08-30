@@ -38,8 +38,9 @@ window.onload = function () {
         setTimeout(() => {
             // TODO: 写当游戏时间结束后要发生的事
             timeUp=true;
-            startBtn.style.display='incline-block';
-            startBtn.innerHTML="TIME UP!"
+            startBtn.style.display='inline-block';
+            startBtn.innerHTML="Replay!"
+            titleH1.innerHTML="Time Up"
         }, gameTime)
     }
 
@@ -71,7 +72,7 @@ window.onload = function () {
      */
     function randomTime(min, max) {
         // TODO: 写生成随机数的逻辑，
-        return Math.floor(Math.random()*(max-min+1)+min);
+        return Math.floor(Math.random()*(max-min+1))+min;
     }
 
     /**
@@ -96,7 +97,7 @@ window.onload = function () {
      */
     function comeOutAndStop(hole, time) {
         // TODO: 写地鼠出洞并停留相应时间，如果游戏时间未结束(timeUp)，继续出洞(peep).
-        for (let i = 100; !timeUp && i > 0; i--) {
+        for (let i = 100; !timeUp && i >= 0; i--) {
             hole.firstElementChild.style.top = i + "%";
         }
         setTimeout(function () {
